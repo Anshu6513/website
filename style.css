@@ -1,0 +1,49 @@
+ol {
+  margin-left: -2px;
+  margin-top: -2px;
+  list-style-position: inside;
+}
+p{
+  color: red;
+  font-size: 30px;
+}
+#id-selector-demo{
+  color: rgb(3, 156, 59);
+}
+li[value="4"]{
+  color:blue;
+}
+.note{
+  font-size: 15px;
+}
+*{
+  text-align: center;
+  font-style:italic;
+  font-style: oblique;
+  animation: backwards;
+  text-overflow: ellipsis;
+}
+body{
+  background-color:rgba(237, 194, 100, 0.388);
+  color:black;
+  text-align:center;
+}
+p{
+  color:black;
+}
+h1{
+  color:rgba(239, 59, 14, 0.867);
+  text-decoration:overline underline rgba(246, 124, 71, 0.895)  double 7px;
+  text-indent:10px;
+  letter-spacing:2px;
+  line-height:2;
+  text-shadow:3px 3px 5px rgba(37, 240, 6, 0.931);
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+h3{
+  text-align:centre;
+}
+h2{
+  text-align:right
+}
+/* Write your CSS below, don't change the rules above. */
